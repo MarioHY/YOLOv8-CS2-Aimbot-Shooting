@@ -1,0 +1,12 @@
+path: cs2 # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+
+# Classes
+names:
+  0: ct_body
+  1: ct_head
+  2: t_body
+  3: t_head
+
