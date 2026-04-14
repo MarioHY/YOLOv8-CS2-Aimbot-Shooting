@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🚀 YOLOv8 CS2 Auto-Aim & Visual Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
@@ -5,6 +7,8 @@
 [![PyQt5](https://img.shields.io/badge/UI-PyQt5-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 
 基于 YOLOv8 深度学习模型的 CS2（Counter-Strike 2）实时目标检测与辅助系统。本项目通过高速屏幕采集与 GPU 加速推理，实现对游戏内敌方目标的识别、自动锁头及射击功能。
+
+</div>
 
 ---
 
