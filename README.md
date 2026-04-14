@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <img src="demo.gif" width="100%" title="竖屏效果演示">
+  <img src="demo.gif" width="80%" title="竖屏效果演示">
   <p><em>竖屏实时检测效果演示</em></p>
 </div>
 
